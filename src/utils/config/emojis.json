@@ -1,0 +1,82 @@
+{
+    "newsemoji": {
+        "emoji": "<:IconNewsChannel:781117547796889632>",
+        "id": "781117547796889632"
+    },
+    "bughunter": {
+        "emoji": "<:bughunter:809307811255025664>",
+        "id": "809307811255025664"
+    },
+    "bughunter2": {
+        "emoji": "<:bughunter2:809308584143486976>",
+        "id": "809308584143486976"
+    },
+    "discordstaff": {
+        "emoji": "<:discordstaff:809307810306195476>",
+        "id": "809307810306195476"
+    },
+    "hs_balance": {
+        "emoji": "<:hypesquad_balance:809307810549989406>",
+        "id": "809307810549989406"
+    },
+    "hs_bravery": {
+        "emoji": "<:hypesquad_bravery:809307810697183242>",
+        "id": "809307810697183242"
+    },
+    "hs_brilliance": {
+        "emoji": "<:hypesquad_briliance:809307810588393472>",
+        "id": "809307810588393472"
+    },
+    "botdev": {
+        "emoji": "<:verifiedbotdev:809307810051522580>",
+        "id": "809307810051522580"
+    },
+    "discordpartner": {
+        "emoji": "<a:discordpartner:809311474764742686>",
+        "id": "809311474764742686"
+    },
+    "musicdisk": {
+        "emoji": "<a:aItemCD:782723466231152640>",
+        "id": "782723466231152640"
+    },
+    "musicnote": {
+        "emoji": "<a:aItemMusicNote:782723457413808129>",
+        "id": "782723457413808129"
+    },
+    "musicskip": {
+        "emoji": "<a:aCeci:782723437301858364>",
+        "id": "782723437301858364"
+    },
+    "turnedon": {
+        "emoji": "<:IconSwitchIconOnGreen:781505049452347412>",
+        "id": "781505049452347412"
+    },
+    "turnedoff": {
+        "emoji": "<:IconSwitchIconOff:781117452192579614>",
+        "id": "781117452192579614"
+    },
+    "pausedsong": {
+        "emoji": "<:IconMicMuted:781117554919079936>",
+        "id": "781117554919079936"
+    },
+    "resumedsong": {
+        "emoji": "<:IconMic:782724369750687794>",
+        "id": "782724369750687794"
+    },
+    "volumesong": {
+        "emoji": "<:IconVoiceChannel:811347768143773716>",
+        "id": "811347768143773716"
+    },
+    "derp": {
+        "emoji": "<:derp:814104192729481227>",
+        "id": "814104192729481227"
+    },
+    "check": {
+        "emoji": "<:check:781118101496004628>",
+        "id": "781118101496004628"
+    },
+    "cross": {
+        "emoji": "<:error:781118100299972618>",
+        "id": "781118100299972618"
+    }
+}
