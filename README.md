@@ -16,39 +16,23 @@ This bot uses a ~custom~ command that can handle lots of common things like a co
 **STRUCTURE**
 
 --BASE FOLDER
- |___.env
- 
+ `|___.env
  |___json.sqlite
- 
  |___package.json
- 
  |___package-lock.json
- 
  |___slappey.json
- 
  |___src
- 
     |__commands
-    
         |_ ...Category Folder
-        
     |__events
-    
         |_ ...Event Folder
-        
     |__utils
-    
         |_registry.js
-        
         |_structures
-        
         |_functions //honestly useless
-        
         |_models  
-        
         |_config 
-        
-    |__bot.js
+    |__bot.js`
 
 **DATABASE**
 
