@@ -27,16 +27,27 @@ This bot uses a ~custom~ command that can handle lots of common things like a co
  |___slappey.json
  
  |___src
+ 
     |__commands
+    
         |_ ...Category Folder
+        
     |__events
+    
         |_ ...Event Folder
+        
     |__utils
+    
         |_registry.js
+        
         |_structures
+        
         |_functions //honestly useless
+        
         |_models  
+        
         |_config 
+        
     |__bot.js
 
 **DATABASE**
