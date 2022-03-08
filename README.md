@@ -4,7 +4,8 @@ Hello there fellow GitHub traveler who is opening this file! This is a README fi
 
 #### IMPORTANT ####
 -I greatly advise making a `CHANGELOG.md` to keep track of changes.
-\n-DON'T FORGET TO DO `npm install`
+
+-DON'T FORGET TO DO `npm install`
 
 Go nuts!
 
@@ -16,10 +17,15 @@ This bot uses a ~custom~ command that can handle lots of common things like a co
 
 --BASE FOLDER
  |___.env
+ 
  |___json.sqlite
+ 
  |___package.json
+ 
  |___package-lock.json
+ 
  |___slappey.json
+ 
  |___src
     |__commands
         |_ ...Category Folder
@@ -40,4 +46,5 @@ InternEnigma as of now uses [quick.db](https://quickdb.js.org/overview/docs)
 **NOTES**
 
 -That's about it, so if you have to ask me anything, feel free to DM me on Discord (FClorp#7777)
+
 -If a command file starts with "_" (underscore), it will not be loaded.
