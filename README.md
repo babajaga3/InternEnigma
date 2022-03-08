@@ -4,7 +4,7 @@ Hello there fellow GitHub traveler who is opening this file! This is a README fi
 
 #### IMPORTANT ####
 -I greatly advise making a `CHANGELOG.md` to keep track of changes.
--DON'T FORGET TO DO `npm install`
+\n-DON'T FORGET TO DO `npm install`
 
 Go nuts!
 
