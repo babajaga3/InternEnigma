@@ -42,6 +42,5 @@ InternEnigma as of now uses [quick.db](https://quickdb.js.org/overview/docs)
 
 **NOTES**
 
--That's about it, so if you have to ask me anything, feel free to DM me on Discord (FClorp#7777)
-
--If a command file starts with "_" (underscore), it will not be loaded.
+- That's about it, so if you have to ask me anything, feel free to DM me on Discord (FClorp#7777)
+- If a command file starts with "_" (underscore), it will not be loaded.
