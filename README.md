@@ -16,7 +16,9 @@ This bot uses a ~custom~ command that can handle lots of common things like a co
 **STRUCTURE**
 
 --BASE FOLDER
- `|___.env
+
+ ```bash
+ |___.env
  |___json.sqlite
  |___package.json
  |___package-lock.json
@@ -32,7 +34,8 @@ This bot uses a ~custom~ command that can handle lots of common things like a co
         |_functions //honestly useless
         |_models  
         |_config 
-    |__bot.js`
+    |__bot.js
+ ```
 
 **DATABASE**
 
