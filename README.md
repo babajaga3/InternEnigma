@@ -3,9 +3,8 @@
 Hello there fellow GitHub traveler who is opening this file! This is a README file that explains the ins and outs of the bot (files):
 
 #### IMPORTANT ####
--I greatly advise making a `CHANGELOG.md` to keep track of changes.
-
--DON'T FORGET TO DO `npm install`
+- I greatly advise making a `CHANGELOG.md` to keep track of changes.
+- DON'T FORGET TO DO `npm install`
 
 Go nuts!
 
