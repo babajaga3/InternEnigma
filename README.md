@@ -1,4 +1,4 @@
-### //Deprecated - Bot is out of order, since the server no longer uses it ###
+### Deprecated - Bot is out of order, server no longer uses it/ hasn't been updated ###
 
 Hello there fellow GitHub traveler who is opening this file! This is a README file that explains the ins and outs of the bot (files):
 
